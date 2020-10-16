@@ -1,0 +1,183 @@
+1602493212715	geckodriver	INFO	Listening on 127.0.0.1:59885
+1602493215745	mozrunner::runner	INFO	Running command: "D:\\work\\tools3\\firefox_1\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilesAHQT1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602493219650	Marionette	INFO	Listening on port 59895
+1602493219931	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1602493331316	Marionette	INFO	Stopped listening on port 59895
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602494267035	geckodriver	INFO	Listening on 127.0.0.1:61116
+1602494270083	mozrunner::runner	INFO	Running command: "D:\\work\\tools3\\firefox_1\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileidABpU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602494272784	Marionette	INFO	Listening on port 61126
+1602494273214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602494345550	Marionette	INFO	Stopped listening on port 61126
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\rust_mozprofilerooJRD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602494344575	Marionette	INFO	Listening on port 57313
+1602494345067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1602494780282	Marionette	INFO	Stopped listening on port 57313
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\rust_mozprofile298tkq"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602494735096	Marionette	INFO	Listening on port 57762
+1602494735262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602494781234	Marionette	INFO	Stopped listening on port 57762
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602494782637	Marionette	INFO	Listening on port 57891
+1602494782688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://captcha.gtimg.com/public/2/tdc_iframe.html, line 10: NS_ERROR_FAILURE: 
+JavaScript warning: http://console.qcloud.com/, line 625: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/, line 625: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 13266: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 21014: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 13266: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 21014: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/ocp, line 625: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/ocp, line 625: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 13266: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 21014: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 13266: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 21014: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/, line 625: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 13266: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 21014: unreachable code after return statement
+1602496652109	Marionette	INFO	Stopped listening on port 57891
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602513052242	geckodriver	INFO	Listening on 127.0.0.1:58168
+1602513055510	mozrunner::runner	INFO	Running command: "D:\\work\\tools3\\firefox_1\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileEaJdIT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602513058184	Marionette	INFO	Listening on port 58178
+1602513058239	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://captcha.gtimg.com/public/2/tdc_iframe.html, line 10: NS_ERROR_FAILURE: 
+JavaScript warning: http://admin.qcloud.com/, line 635: unreachable code after return statement
+JavaScript warning: http://admin.qcloud.com/, line 635: unreachable code after return statement
+JavaScript warning: http://admin.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 13266: unreachable code after return statement
+JavaScript warning: http://admin.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 21014: unreachable code after return statement
+JavaScript warning: http://admin.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 13266: unreachable code after return statement
+JavaScript warning: http://admin.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 21014: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: http://console.qcloud.com/, line 625: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/, line 625: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 13266: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 21014: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 13266: unreachable code after return statement
+JavaScript warning: http://console.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 21014: unreachable code after return statement
+1602513440011	Marionette	INFO	Stopped listening on port 58178
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602513668086	geckodriver	INFO	Listening on 127.0.0.1:59057
+1602513671152	mozrunner::runner	INFO	Running command: "D:\\work\\tools3\\firefox_1\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilez6MNEl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602513673542	Marionette	INFO	Listening on port 59069
+1602513673817	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://captcha.gtimg.com/public/2/tdc_iframe.html, line 10: NS_ERROR_FAILURE: 
+JavaScript warning: http://admin.qcloud.com/, line 635: unreachable code after return statement
+JavaScript warning: http://admin.qcloud.com/, line 635: unreachable code after return statement
+JavaScript warning: http://admin.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 13266: unreachable code after return statement
+JavaScript warning: http://admin.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 21014: unreachable code after return statement
+JavaScript warning: http://admin.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 13266: unreachable code after return statement
+JavaScript warning: http://admin.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 21014: unreachable code after return statement
+1602515384844	Marionette	INFO	Stopped listening on port 59069
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\rust_mozprofilemsnics"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602513776256	Marionette	INFO	Listening on port 59311
+1602513776441	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://captcha.gtimg.com/public/2/tdc_iframe.html, line 10: NS_ERROR_FAILURE: 
+JavaScript warning: http://admin.qcloud.com/, line 635: unreachable code after return statement
+JavaScript warning: http://admin.qcloud.com/, line 635: unreachable code after return statement
+JavaScript warning: http://admin.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 13266: unreachable code after return statement
+JavaScript warning: http://admin.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 21014: unreachable code after return statement
+JavaScript warning: http://admin.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 13266: unreachable code after return statement
+JavaScript warning: http://admin.qcloud.com/qcloud/app/qcconsole_web/dest/platform.js?max_age=31536000&ver=20180329, line 21014: unreachable code after return statement
+console.error: services.settings: 
+  security-state/cert-revocations Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+1602515383517	Marionette	INFO	Stopped listening on port 59311
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602658865319	geckodriver	INFO	Listening on 127.0.0.1:58643
+1602658868355	mozrunner::runner	INFO	Running command: "D:\\work\\tools3\\firefox_1\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileV0F7ZB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602658871122	Marionette	INFO	Listening on port 58657
+1602658871484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+[Parent 13700, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1602659241223	Marionette	INFO	Stopped listening on port 58657
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
