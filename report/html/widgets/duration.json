@@ -1,0 +1,41 @@
+[ {
+  "uid" : "efa9d3ede533d252",
+  "name" : "test_sp_verify_supplier",
+  "time" : {
+    "start" : 1603177188997,
+    "stop" : 1603177188997,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b11555747b829e92",
+  "name" : "test_voyage_service",
+  "time" : {
+    "start" : 1603177189297,
+    "stop" : 1603177197380,
+    "duration" : 8083
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "639eb10c53d3e518",
+  "name" : "test_fictitious_needs",
+  "time" : {
+    "start" : 1603177059846,
+    "stop" : 1603177178426,
+    "duration" : 118580
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a32e11a53f47074c",
+  "name" : "test_supplier_apply",
+  "time" : {
+    "start" : 1603177180372,
+    "stop" : 1603177180372,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

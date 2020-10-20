@@ -70,6 +70,11 @@ def find_one_ele(by_method,ele_xpath,num):
     ele = ele_list[num]
     return ele
 
+#点击确认或取消
+def click_act(name,act):
+    find_ele(By.XPATH,".//*[contains(text(),'{}')]".format(name))
+    click_ele(By.XPATH,".//button[contains(text(),'{}')]".format(act))
+
 
 
 

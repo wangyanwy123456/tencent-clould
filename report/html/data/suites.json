@@ -1,0 +1,77 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Test_Console",
+    "children" : [ {
+      "name" : "test_collaborative_manufacturing",
+      "children" : [ {
+        "name" : "Test_Supply_Demand_Service",
+        "children" : [ {
+          "name" : "test_fictitious_needs",
+          "uid" : "639eb10c53d3e518",
+          "parentUid" : "b621200e9a05924f5f7b5ea0d3dfa041",
+          "status" : "passed",
+          "time" : {
+            "start" : 1603177059846,
+            "stop" : 1603177178426,
+            "duration" : 118580
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b621200e9a05924f5f7b5ea0d3dfa041"
+      }, {
+        "name" : "Test_Supplier_Attestation",
+        "children" : [ {
+          "name" : "test_supplier_apply",
+          "uid" : "a32e11a53f47074c",
+          "parentUid" : "1474547f36598a2d111cb9659202ff4f",
+          "status" : "broken",
+          "time" : {
+            "start" : 1603177180372,
+            "stop" : 1603177180372,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_sp_verify_supplier",
+          "uid" : "efa9d3ede533d252",
+          "parentUid" : "1474547f36598a2d111cb9659202ff4f",
+          "status" : "broken",
+          "time" : {
+            "start" : 1603177188997,
+            "stop" : 1603177188997,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1474547f36598a2d111cb9659202ff4f"
+      } ],
+      "uid" : "1f0b6325ffc5e79aab12b64d515b9f0a"
+    }, {
+      "name" : "test_voyage_service",
+      "children" : [ {
+        "name" : "Test_Voyage_Service",
+        "children" : [ {
+          "name" : "test_voyage_service",
+          "uid" : "b11555747b829e92",
+          "parentUid" : "77d02172d60309f427043bc5eea7bfab",
+          "status" : "broken",
+          "time" : {
+            "start" : 1603177189297,
+            "stop" : 1603177197380,
+            "duration" : 8083
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "77d02172d60309f427043bc5eea7bfab"
+      } ],
+      "uid" : "e0a9d50de0cf62c1d135d86961f56d25"
+    } ],
+    "uid" : "586312ed5eaacb2cd8c945585d48f505"
+  } ]
+}

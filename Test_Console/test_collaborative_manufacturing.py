@@ -7,6 +7,7 @@ from Commen import commen_console
 from Commen import commen_admin
 from selenium.webdriver.common.by import By
 
+
 province = '海南省'
 city = '海口市'
 area = '龙华区'

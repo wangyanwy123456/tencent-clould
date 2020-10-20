@@ -1,0 +1,12 @@
+allure生成html报告
+1、运行命令
+ pytest D:\workspaces\python\allurePython\test_feature.py --alluredir=./allure-results/
+2、生成html报告命令
+allure generate report/ -o allure-reports/
+
+
+存在未解决的问题:
+3.使用相对路径的命令
+4.allure的命令
+5.配置文件自动生成报告的问题
+6.执行多个用例时知识第一个用例运行成果;其他的用例出现报错:"由于目标计算机积极拒绝,无法连接"

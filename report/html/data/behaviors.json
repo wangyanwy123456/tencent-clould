@@ -1,0 +1,53 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_fictitious_needs",
+    "uid" : "639eb10c53d3e518",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603177059846,
+      "stop" : 1603177178426,
+      "duration" : 118580
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_supplier_apply",
+    "uid" : "a32e11a53f47074c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1603177180372,
+      "stop" : 1603177180372,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_sp_verify_supplier",
+    "uid" : "efa9d3ede533d252",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1603177188997,
+      "stop" : 1603177188997,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_voyage_service",
+    "uid" : "b11555747b829e92",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1603177189297,
+      "stop" : 1603177197380,
+      "duration" : 8083
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

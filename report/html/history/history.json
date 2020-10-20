@@ -1,0 +1,81 @@
+{
+  "f4ebb4f66939f60fa0ce584a7afdf97f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "639eb10c53d3e518",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603177059846,
+        "stop" : 1603177178426,
+        "duration" : 118580
+      }
+    } ]
+  },
+  "f719478a9282a2549c7e597ddf36118c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b11555747b829e92",
+      "status" : "broken",
+      "statusDetails" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=62547): Max retries exceeded with url: /session/334902bd-d34b-4943-9f0e-29dd3862c4f4/window/maximize (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EEBAF0B7F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))",
+      "time" : {
+        "start" : 1603177189297,
+        "stop" : 1603177197380,
+        "duration" : 8083
+      }
+    } ]
+  },
+  "bfa00a2cfeb27aa0525e56a233704f7f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a32e11a53f47074c",
+      "status" : "broken",
+      "statusDetails" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=62547): Max retries exceeded with url: /session/334902bd-d34b-4943-9f0e-29dd3862c4f4/window/maximize (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EEBAA62A20>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))",
+      "time" : {
+        "start" : 1603177180372,
+        "stop" : 1603177180372,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2615846765a5189e4e0270aa9169e675" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "efa9d3ede533d252",
+      "status" : "broken",
+      "statusDetails" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=62547): Max retries exceeded with url: /session/334902bd-d34b-4943-9f0e-29dd3862c4f4/window/maximize (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EEBAA62A20>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))",
+      "time" : {
+        "start" : 1603177188997,
+        "stop" : 1603177188997,
+        "duration" : 0
+      }
+    } ]
+  }
+}

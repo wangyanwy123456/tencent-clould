@@ -1,0 +1,61 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PC-20200805IJRU",
+    "children" : [ {
+      "name" : "5368-MainThread",
+      "children" : [ {
+        "name" : "test_sp_verify_supplier",
+        "uid" : "efa9d3ede533d252",
+        "parentUid" : "d7fd650d675da3d8064cac4a13b16918",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603177188997,
+          "stop" : 1603177188997,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_voyage_service",
+        "uid" : "b11555747b829e92",
+        "parentUid" : "d7fd650d675da3d8064cac4a13b16918",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603177189297,
+          "stop" : 1603177197380,
+          "duration" : 8083
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_fictitious_needs",
+        "uid" : "639eb10c53d3e518",
+        "parentUid" : "d7fd650d675da3d8064cac4a13b16918",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603177059846,
+          "stop" : 1603177178426,
+          "duration" : 118580
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_supplier_apply",
+        "uid" : "a32e11a53f47074c",
+        "parentUid" : "d7fd650d675da3d8064cac4a13b16918",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603177180372,
+          "stop" : 1603177180372,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d7fd650d675da3d8064cac4a13b16918"
+    } ],
+    "uid" : "13b0025c4c35967bb4f0186784e53645"
+  } ]
+}

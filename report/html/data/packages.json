@@ -1,0 +1,65 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Test_Console",
+    "children" : [ {
+      "name" : "test_collaborative_manufacturing",
+      "children" : [ {
+        "name" : "test_fictitious_needs",
+        "uid" : "639eb10c53d3e518",
+        "parentUid" : "e6df6a4fcf339dc0f9ae83ee376320a7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603177059846,
+          "stop" : 1603177178426,
+          "duration" : 118580
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_supplier_apply",
+        "uid" : "a32e11a53f47074c",
+        "parentUid" : "e6df6a4fcf339dc0f9ae83ee376320a7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603177180372,
+          "stop" : 1603177180372,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_sp_verify_supplier",
+        "uid" : "efa9d3ede533d252",
+        "parentUid" : "e6df6a4fcf339dc0f9ae83ee376320a7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603177188997,
+          "stop" : 1603177188997,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e6df6a4fcf339dc0f9ae83ee376320a7"
+    }, {
+      "name" : "test_voyage_service",
+      "children" : [ {
+        "name" : "test_voyage_service",
+        "uid" : "b11555747b829e92",
+        "parentUid" : "57da4ac32ebbf5eebd87a84d0667a7fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603177189297,
+          "stop" : 1603177197380,
+          "duration" : 8083
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "57da4ac32ebbf5eebd87a84d0667a7fa"
+    } ],
+    "uid" : "04230e27da85d7b6508270fa6b872d08"
+  } ]
+}

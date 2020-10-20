@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"broken","Test_Console.test_collaborative_manufacturing.Test_Supplier_Attestation#test_sp_verify_supplier","0",""
+"broken","Test_Console.test_voyage_service.Test_Voyage_Service#test_voyage_service","8083",""
+"passed","Test_Console.test_collaborative_manufacturing.Test_Supply_Demand_Service#test_fictitious_needs","118580",""
+"broken","Test_Console.test_collaborative_manufacturing.Test_Supplier_Attestation#test_supplier_apply","0",""
